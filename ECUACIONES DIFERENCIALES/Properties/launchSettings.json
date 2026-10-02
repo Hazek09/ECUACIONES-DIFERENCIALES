@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "CODIGO-MIGUEL GARCIA": {
+      "commandName": "Project"
+    }
+  }
+}
